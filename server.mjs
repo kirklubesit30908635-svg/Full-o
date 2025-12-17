@@ -24,7 +24,7 @@ server.registerTool(
       "Generate an AIS-style business blueprint JSON from a natural language description.",
     inputSchema: {
       description: z.string()
-    },
+        
     outputSchema: {
       // We accept any JSON payload from upstream; callers can introspect it.
       result: z.unknown()
