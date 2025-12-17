@@ -1,5 +1,5 @@
 {
-  "name": "AutoKirk APP",
+  "name": "autokirk-mcp-server",
   "version": "1.0.0",
   "description": "Enterprise-grade MCP wrapper that exposes the Autokirk AIS Blueprint endpoint as a Model Context Protocol tool over Streamable HTTP.",
   "type": "module",
